@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">Degreed professional with a Bachelor's from Brooklyn College and Certified Data Scientist from BloomTech Institute of Technology.  ... wide range of enterprise technology and leadership experience.</h3>
+<h3 align="center">Certified Data Scientist from BloomTech Institute of Technology.  ... wide range of enterprise technology and leadership experience.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
