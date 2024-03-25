@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">Certified Data Scientist from BloomTech Institute of Technology.  ... wide range of enterprise technology and leadership experience.</h3>
+<h3 align="center">Certified Data Scientist from BloomTech Institute of Technology.  With a wide range of enterprise technology and leadership experience.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
